@@ -2,7 +2,10 @@
 ViveTrackerをHMDなしにつかうやつことを想定したものです
 
 VRアプリとして起動しないようになっているので、VRゲームをプレイしながらVive Trackerの位置を取れたりします。
-使い方はsample.sceneをみればなんとなくわかるかなと
+
+使い方はsample.sceneをみればなんとなくわかるかなと。
+
+SteamVR Plugin が必要なので、各自入れてください。
 
 参考
 
